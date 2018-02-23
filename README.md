@@ -9,4 +9,8 @@ A collection of notebooks to organize my thoughts as I dive into deep learning
 
 4. Dropout (planned)
 
+5. Visualizing activations (planned)
+
+6. Convolution (planned)
+
 
