@@ -10,9 +10,3 @@ Links to nbviewer (for nicer LaTeX rendering):
 3. [Improved training methods](https://nbviewer.jupyter.org/github/JohnPaton/numpy-neural-networks/blob/master/03-better-training.ipynb): Mini-batches, momentum, and learning rate decay
 
 4. [Preventing overfitting](https://nbviewer.jupyter.org/github/JohnPaton/numpy-neural-networks/blob/master/04-regularization-dropout.ipynb): weight regularization and dropout
-
-5. Visualizing activations (planned)
-
-6. Convolution (planned)
-
-7. Recurrence (planned)
