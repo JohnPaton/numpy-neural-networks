@@ -1,6 +1,8 @@
 # numpy-neural-networks
 A collection of notebooks to organize my thoughts as I dive into deep learning. Thanks to Eric Postma for suggesting this learning path.
 
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/johnpaton/numpy-neural-networks/master)
+
 Links to nbviewer (for nicer LaTeX rendering):
 
 1. [Single Layer Perceptron](https://nbviewer.jupyter.org/github/JohnPaton/numpy-neural-networks/blob/master/01-single-layer-perceptron.ipynb)
